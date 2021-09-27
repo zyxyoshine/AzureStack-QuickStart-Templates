@@ -116,7 +116,7 @@
     },
     "vmIoDurationInSec": {
       "type": "int",
-      "defaultValue": 180,
+      "defaultValue": 300,
       "metadata": {
         "description": "VM IO workload duration in seconds."
       }
